@@ -1,0 +1,11 @@
+{ 
+	"include" : "/Users/franciscome/git/iteralabs/griphogram/src",
+	"venv" : "griphogram_venv", 
+	"venvPath" : "/Users/franciscome/.pyenv/versions", 
+	"executionEnvironments":
+	[ 
+		{ "root": "tests", 
+			"extraPaths": "/Users/franciscome/git/iteralabs/griphogram/src" 
+		}, 
+	] 
+}
